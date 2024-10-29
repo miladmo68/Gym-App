@@ -1,6 +1,6 @@
 {
   "homepage": "https://miladmo68.github.io/Gym-App",
-  "name": "Milad-fit",
+  "name": "milad-fit",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,7 +13,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "milad-fit": "file:",
     "Milad-fit": "file:",
+    "Miladfit": "file:",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "swoley-fit": "file:"
