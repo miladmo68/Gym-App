@@ -14,13 +14,11 @@
 ## ​ Screenshot
 
 <p align="center">
-  <img width="1920" height="1080" alt="Gym-App" src="https://github.com/user-attachments/assets/your-image-id.png" />
-</p>
 <img alt="Gym-App"
      src="https://github.com/user-attachments/assets/597c5020-8644-4012-902c-24be55e933fc"
      width="1920" height="1080" loading="lazy" />
+</p>
 
-![gym-app](https://github.com/user-attachments/assets/597c5020-8644-4012-902c-24be55e933fc)
 
 
 ## ​ Tech Stack
