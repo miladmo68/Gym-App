@@ -1,69 +1,63 @@
-<h1 align="center">🏋️ Gym-App</h1>
+<div align="center">
+
+# 💪 Swolenormous — Workout Generator
+
+A workout generator that builds a training session from your chosen split, muscle groups and goal.
+
+<a href="https://miladmo68.github.io/Gym-App/"><img src="https://img.shields.io/badge/Live_Demo-Open_Site-FF6A00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
+<a href="https://github.com/miladmo68/Gym-App"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"></a>
+<a href="https://miladweb.com"><img src="https://img.shields.io/badge/Portfolio-miladweb.com-1E3A8A?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"></a>
+
+**🔗 Live:** [miladmo68.github.io/Gym-App](https://miladmo68.github.io/Gym-App/)
+
+</div>
 
 <p align="center">
-  <a href="https://miladmo68.github.io/Gym-App/"><b>🔗 Live Demo</b></a> •
-  <a href="https://github.com/miladmo68/Gym-App"><b>📦 Repository</b></a>
+  <img src="./.github/preview.jpg" alt="Swolenormous — Workout Generator screenshot" width="100%" />
 </p>
 
-<p align="center">
-  A React + Vite scaffold for fitness and workout tracking interfaces. It offers fast development setup, clean structure, and is perfect for extending with workout plans, logs, timers, or progress visualizations.
-</p>
+## ✨ Features
 
----
+- Choose a split, muscles and goal
+- Generated workout with sets and reps
+- Tailwind CSS design
 
-## ​ Screenshot
+## 🛠️ Tech Stack
 
-<p align="center">
-<img alt="Gym-App"
-     src="https://github.com/user-attachments/assets/597c5020-8644-4012-902c-24be55e933fc"
-     width="1920" height="1080" loading="lazy" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 
+## 🚀 Getting Started
 
+**Prerequisites:** [Node.js](https://nodejs.org/) 18 or newer
 
-## ​ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-latest-orange?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/ESLint-configured-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prettier-setup-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
-</p>
-
----
-
-## ​ Features
-
-| Feature                  | Description                                                                 |
-|--------------------------|-----------------------------------------------------------------------------|
-| **Workout Interface**    | Clean layout ready for showcasing workouts, sets, reps, or timers           |
-| **Fast Development**     | Vite-powered setup ensures swift hot-module reload and quick iteration       |
-| **Clean Code Setup**     | Enforced formatting and linting through ESLint and Prettier                 |
-| **Scaffolded Foundation**| Ideal base for adding workout logs, progress tracking, timers, or analytics |
-| **Extensible Design**    | Easily expandable for including UI elements like charts, filters, or modals |
-
----
-
-<p align="center">
-  <b>👨‍💻 Author: Milad Mohammadi</b><br>
-  🌐 <a href="https://miladweb.com">Website</a> • 💼 <a href="https://linkedin.com/in/miladmo68">LinkedIn</a> • 🐙 <a href="https://github.com/miladmo68">GitHub</a>
-</p>
-
----
-
-## ​ Getting Started
+**Install and run**
 
 ```bash
-# 1) Clone the repository
 git clone https://github.com/miladmo68/Gym-App.git
 cd Gym-App
-
-# 2) Install dependencies
 npm install
-
-# 3) Run development server
 npm run dev
+```
 
-# 4) Build for production
-npm run build
+## 📁 Project Structure
+
+```
+Gym-App/
+├── public/
+├── src/
+├── index.html
+├── package.json
+├── postcss.config.js
+├── tailwind.config.js
+└── vite.config.js
+```
+
+## 👤 Author
+
+**Milad Mohammadi** — Frontend-Focused Full-Stack Developer, Toronto 🇨🇦
+
+[![Website](https://img.shields.io/badge/Website-miladweb.com-FF6A00?style=flat-square&logo=googlechrome&logoColor=white)](https://miladweb.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-miladmo68-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miladmo68/)
+[![GitHub](https://img.shields.io/badge/GitHub-miladmo68-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/miladmo68)
+
+<p align="center"><sub>If you like this project, consider giving it a ⭐</sub></p>
